@@ -9,7 +9,7 @@ public class Greeter {
 	 * 
 	 * ajout d'un commentaire
 	 * sayHello method 
-	 * 
+	 * ajout tester sonar
 	 * @param name
 	 * @return "Hello "+name
 	 */
