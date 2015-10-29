@@ -7,7 +7,7 @@ public class Greeter {
 
 	/**
 	 * 
-	 * 
+	 * ajout d'un commentaire
 	 * sayHello method 
 	 * 
 	 * @param name
