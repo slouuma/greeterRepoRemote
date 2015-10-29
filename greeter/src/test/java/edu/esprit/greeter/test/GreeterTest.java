@@ -26,7 +26,7 @@ public class GreeterTest {
 		
 		String result=greeter.sayHello("world");
 	    
-		assertEquals("Hello world1", result);
+		assertEquals("Hello world", result);
 	}
     
     
